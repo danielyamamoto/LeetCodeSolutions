@@ -1,4 +1,6 @@
-#### Add Two Numbers
+#### [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+Difficulty: Medium
 
 | Time Submitted | Runtime | Memory  |
 |----------------|---------|---------|
