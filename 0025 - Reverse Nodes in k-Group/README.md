@@ -2,7 +2,7 @@
 
 #### [Solution's post](https://leetcode.com/problems/reverse-nodes-in-k-group/discuss/1797999/c-best-way-i-could-do-it-explained-12-26ms)
 
-Difficulty: Medium
+Difficulty: Hard
 
 | Time Submitted | Runtime | Memory  |
 |----------------|---------|---------|
